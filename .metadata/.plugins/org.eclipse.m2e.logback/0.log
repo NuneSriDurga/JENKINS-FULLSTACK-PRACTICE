@@ -135,3 +135,5 @@
 2025-10-17 12:42:03,783 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\2025 ODD_SEM_DEVOPS\CICD-FULLSTACK\CAR-FULLSTACK\CAR-SPRINGBOOT\src\test\resources
 2025-10-17 12:42:03,784 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CAR-SPRINGBOOT
 2025-10-17 12:42:03,784 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CAR-SPRINGBOOT
+2025-10-17 23:03:14,550 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-17 23:05:58,830 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

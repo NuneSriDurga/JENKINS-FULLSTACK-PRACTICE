@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\2025 ODD_SEM_DEVOPS\CICD-FULLSTACK\CAR-FULLSTACK\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2823306245.index
+178010602.index
+248125329.index
+3989258909.index
+3026721139.index
